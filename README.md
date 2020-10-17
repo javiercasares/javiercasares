@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**javiercasares/javiercasares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gracias por visitar mi página de Github. Aquí tengo algunos proyectos en los que estoy trabajando de forma pública, como [mis plugins de WordPress y otras herramientas](https://www.javiercasares.com/proyectos/).
 
-Here are some ideas to get you started:
+Mis dos proyectos públicos principales son:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [postal.cat](https://github.com/javiercasares/postal.cat)
+* [WordPress Minimal Analytics](https://github.com/javiercasares/minimal-analytics)
+
+También puedes encontrarme trabajando en:
+
+* [WordPress Hosting Handbook](https://github.com/WordPress/hosting-handbook)
+
+¡Gracias por tu atención! 
